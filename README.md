@@ -1,2 +1,2 @@
-# prepcourse-henry
-Repositorio prueba mod. 2 
+Karol Mancera 
+este proyecto es una prueba de como crear un repositorio y clonarlo desde git hub
